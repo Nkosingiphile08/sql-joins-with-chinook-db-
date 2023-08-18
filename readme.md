@@ -5,4 +5,4 @@ Find all the artists for a given Genre
 Find the total for a given invoice (will need a sum)
 Find all the playlists containing a given genre
 Find the biggest/smallest invoice amounts (needs group by)
-Find the artist with the most/least songs (needs group by) 
+Find the artist with the most/least songs (needs group by) # sql-joins-with-chinook-db-
